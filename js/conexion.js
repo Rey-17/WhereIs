@@ -1,9 +1,43 @@
 var mic = new Wit.Microphone(document.getElementById("microphone"));
 var vec=[];
+var comercio, lugar, intento;
 var info = function (msg) {
 	document.getElementById("info").innerHTML = msg;
 };
 
+var BD=function(c,l) {
+	document.getElementById("consulta").innerHTML = "Lo que deseas buscar es lo siguiente: " + c +" "+ l;
+	document.getElementById("boton").innerHTML='<button onclick="enviar()">Continuar</button>';
+};
+
+var compare=function(c,l,i){
+	if(i=="Banco_General"){
+		if((c=="Banco General")||(c=="banco general")||(c=="Banc General")||(c=="ban General")){
+			c="Banco General";
+			console.log("dentro del if");
+		}
+	}else if(i == "Banesco"){
+		if((c=="banners")||(c=="Banesco")||(c=="banesco")||(c=="baneso")){
+			c="Banesco";
+			console.log("dentro del if banesco");
+		}
+	}else if(i == "Caja_de_Ahorros"){
+		
+	}else if(i == "Don_Lee"){
+		if((c=="dunlee")||(c=="dongle")||(c=="Don Lee")||(c=="donnelley")||(c=="the only")||(c=="lonely")||(c=="durly")||(c=="doublelift")||(c=="2leep")||(c=="Download")||(c=="download")||(c=="dónde")){
+			c="Don Lee";
+		}
+	}else if(i == "KFC"){
+	}else if(i == "Mcdonald"){
+	}else if(i == "Romero"){
+	}else if(i == "Super_99"){
+	}else if(i == "Super_Xtra"){
+	}
+	console.log(c);
+	//if()
+	
+    BD(c,l);
+	}
 
 var error = function (msg) {
 	document.getElementById("error").innerHTML = msg;
@@ -38,6 +72,8 @@ mic.onresult = function (intent, entities) {
 	}
 
 	document.getElementById("result").innerHTML = r;
+	compare(comercio, lugar, intento);
+	//BD(comercio,lugar);
 };
 mic.onerror = function (err) {
 	error("Error: " + err);
@@ -60,13 +96,31 @@ function kv (k, v) {
 	{
 		v = JSON.stringify(v);
 	}
-
-	alert("El valor de k es: " + k);
-	alert("El valor de v es: " + v);
-	BD(v);
+	//Agregando la linea de la conexión
+	if(k=="intent"){
+		intento=v;
+		console.log(intento);
+	}
+	if((k=="local")){
+		comercio=v;    //se le asigna a la variable comercio el valor de v solo cuando la entidad k es local
+		console.log(comercio);
+	}else if(k=="lugar"){
+		lugar=v;      //se le asigna a la variable lugar el valor de v solo si la entidad k es lugar
+		console.log(lugar);
+	}
 	return k + "=" + v + "\n";
+	
 }
-var BD=function(v) {
-	vec.push(v);
-	console.log(vec);
-};
+
+function enviar(){
+$.ajax({
+	url:'consulta.php',
+	type:'POST',
+	data:{intento: intento, comercio: comercio,lugar:lugar},
+	dataType: 'json',
+	success: function(respuesta){
+		alert(respuesta.mensaje);
+	}
+});
+	
+}
