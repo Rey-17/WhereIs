@@ -22,19 +22,55 @@ var compare=function(c,l,i){
 			console.log("dentro del if banesco");
 		}
 	}else if(i == "Caja_de_Ahorros"){
+		if((c=="Caja de Ahorros")||(c=="Caja Ahorros")||(c=="caja ahorros")||(c=="ca de ahorros")||(c=="Ca de Ahorros")||(c=="caja de ahorros")||
+		   (c=="caj de ahorros")||(c=="Caj de Ahorros")){
+			c="Caja de Ahorros";
+		}
 		
 	}else if(i == "Don_Lee"){
-		if((c=="dunlee")||(c=="dongle")||(c=="Don Lee")||(c=="donnelley")||(c=="the only")||(c=="lonely")||(c=="durly")||(c=="doublelift")||(c=="2leep")||(c=="Download")||(c=="download")||(c=="dónde")){
+		if((c=="dunlee")||(c=="dongle")||(c=="Don Lee")||(c=="donnelley")||(c=="the only")||(c=="lonely")||(c=="durly")||(c=="doublelift")||(c=="2leep")||
+		   (c=="Download")||(c=="download")||(c=="dónde")||(c=="Don")||(c=="don")||(c=="Donde")||(c=="donde")||(c=="Dónde")||(c=="Don Lino")||(c=="don lino")||
+		   (c=="Don lino")||(c=="Doully")||(c=="Only")||(c=="doully")||("only")||(c=="daunlip")||(c=="Daunlip")||(c=="Doublelift")||(c=="down")||(c=="Down")){
 			c="Don Lee";
 		}
 	}else if(i == "KFC"){
+		if((c=="KFC")||(c=="kfc")||(c=="kaefece")||(c=="keifci")||(c=="caefece")||(c=="Kaefece")||(c=="Caefece")||(c=="Keifici")||(c=="caefese")||(c=="Caefese")||
+		   (c=="kaefese")||(c=="Kaefese")){
+		c="KFC";
+		}
 	}else if(i == "Mcdonald"){
+		if((c=="Mcdonald")||(c=="mcdonald")||(c=="Macdonalds")||(c=="macdonalds")||(c=="Mcdonald's")||(c=="mcdonald's")||(c=="macdonald's")||(c=="Macdonald's")){
+			c="Mcdonald";
+		}
 	}else if(i == "Romero"){
+		if((c=="romero")||(c=="Romero")||(c=="Romer")||(c=="romer")){
+			c="Romero";
+		}
 	}else if(i == "Super_99"){
+		if((c=="super 99")||(c=="Super 99")||(c=="súper 99")||(c=="Súper 99")||(c=="super99")||(c=="Super99")||(c=="Súper99")||(c=="súper99")||
+		   (c=="super noventa y nueve")||(c=="Super Noventa y Nueve")||(c=="super29")||(c=="Super29")||(c=="super 29")||(c=="Super 29")){
+		c="Super 99";
+		}
 	}else if(i == "Super_Xtra"){
+		if((c=="Super Xtra")||(c=="super xtra")||(c=="super Xtra")||(c=="Super xtra")||(c=="Súper Xtra")||(c=="Súper xtra")||(c=="súper Xtra")||(c=="súper xtra")||
+		  (c=="Súper estra")||(c=="súper estra")||(c=="Súper Estra")||(c=="súper Estra")||(c=="Super Extra")||(c=="Super extra")||(c=="super extra")||
+		   (c=="super Extra")||(c=="Súper Extra")||(c=="Súper extra")||(c=="súper Extra")||(c=="súper extra")){
+		c="Super Xtra";
+		}
 	}
 	console.log(c);
-	//if()
+	if((l=="Via Veneto")||(l=="via veneto")||(l=="events")||(l=="Vía Veneto")||(l=="vía veneto")||(l=="Vía veneto")||(l=="vía Veneto")||(l=="Events")){
+		l="Via Veneto";
+	}else if((l=="Las Acacias")||(l=="las acacias")||(l=="Las acacias")||(l=="las Acacias")||(l=="Lacasia")||(l=="lacasia")||(l=="Las Acasias")||(l=="Las acasias")||
+			 (l=="las Acasias")||(l=="las acasias")){
+	l="Las Acacias";
+	}else if((l=="Brisas del Golf")||(l=="Brisas del golf")||(l=="Brisas Del Golf")||(l=="brisas del golf")||(l=="brisas del Golf")){
+	l="Brisas del Golf";
+	}else if((l=="San Miguelito"||"san miguelito"||"San miguelito"||"san Miguelito")){
+	l="San Miguelito";
+	}else if(l=="Plaza Carolina"||"plaza carolina"||""){
+		l="Plaza Carolina";
+	}
 	
     BD(c,l);
 	}
