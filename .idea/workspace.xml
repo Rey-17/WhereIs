@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3f954f6e-fcb1-497b-8d16-89f3ed7b9fe5" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+              <folding>
+                <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="checkout.php" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Desktop/archivos_old/archivos_old/htdocs_old/manda/cs-pages/checkout.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2825">
+              <caret line="68" column="40" lean-forward="false" selection-start-line="68" selection-start-column="33" selection-end-line="68" selection-end-column="40" />
+              <folding>
+                <marker date="1491157920000" expanded="true" signature="1506:1544" ph="SELECT * FRO... proveedor" />
+                <marker date="1491157920000" expanded="true" signature="1684:1745" ph="SELECT * FRO... detalles_shop" />
+                <marker date="1491157920000" expanded="true" signature="9227:9353" ph="SELECT area,... ${$DB_ADDRESS}" />
+                <marker date="1491157920000" expanded="false" signature="24247:24280" ph="..." />
+                <marker date="1491157920000" expanded="true" signature="24281:24527" ph="..." />
+                <marker date="1491157920000" expanded="true" signature="27385:27425" ph="..." />
+                <marker date="1491157920000" expanded="true" signature="27426:27886" ph="..." />
+                <marker date="1491157920000" expanded="true" signature="27478:27847" ph="..." />
+                <marker date="1491157920000" expanded="true" signature="27617:27808" ph="..." />
+                <marker date="1491157920000" expanded="true" signature="28184:29796" ph="..." />
+                <marker date="1491157920000" expanded="true" signature="28280:28482" ph="..." />
+                <marker date="1491157920000" expanded="true" signature="28671:28827" ph="..." />
+                <marker date="1491157920000" expanded="true" signature="28901:29056" ph="..." />
+                <marker date="1491157920000" expanded="true" signature="29187:29360" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="conex.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/conex.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="43" column="27" lean-forward="true" selection-start-line="43" selection-start-column="27" selection-end-line="43" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="conex2.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/conex2.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="145" column="5" lean-forward="true" selection-start-line="135" selection-start-column="3" selection-end-line="145" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="map.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/map.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="36" column="64" lean-forward="false" selection-start-line="36" selection-start-column="64" selection-end-line="36" selection-end-column="64" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>resp</find>
+      <find>name_pv</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/conex2.js" />
+        <option value="$PROJECT_DIR$/conex.js" />
+        <option value="$PROJECT_DIR$/map.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="676" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="whereis2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="whereis2" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f954f6e-fcb1-497b-8d16-89f3ed7b9fe5" name="Default" comment="" />
+      <created>1508617328834</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1508617328834</updated>
+      <workItem from="1508617330619" duration="2320000" />
+      <workItem from="1508630090178" duration="2000" />
+      <workItem from="1508630112004" duration="3702000" />
+      <workItem from="1508637138055" duration="7982000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="14006000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11713031" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/map.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1105">
+          <caret line="65" column="1" lean-forward="false" selection-start-line="65" selection-start-column="1" selection-end-line="65" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conex2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2516">
+          <caret line="148" column="1" lean-forward="true" selection-start-line="127" selection-start-column="0" selection-end-line="148" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conex.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="52" column="23" lean-forward="false" selection-start-line="52" selection-start-column="23" selection-end-line="52" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conex.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="901">
+          <caret line="53" column="1" lean-forward="false" selection-start-line="53" selection-start-column="1" selection-end-line="53" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conex.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="901">
+          <caret line="53" column="1" lean-forward="false" selection-start-line="53" selection-start-column="1" selection-end-line="53" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../whereis/WhereIs/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/archivos_old/archivos_old/htdocs_old/mandao/cs-pages/address.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-383">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/archivos_old/archivos_old/htdocs_old/mandao/cs-content/network/acc_res.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-816">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/archivos_old/archivos_old/htdocs_old/mandao/cs-content/network/end.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1828">
+          <caret line="34" column="16" lean-forward="true" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
+          <folding>
+            <marker date="1490046476000" expanded="true" signature="1431:1481" ph="SELECT * FRO... productos_salvados" />
+            <marker date="1490046476000" expanded="true" signature="1699:1991" ph="INSERT INTO detalles_shop... " />
+            <marker date="1490046476000" expanded="true" signature="3027:3077" ph="SELECT prove... ${$DB_PROVEEDOR}" />
+            <marker date="1490046476000" expanded="true" signature="3243:3284" ph="SELECT * FRO... usuario" />
+            <marker date="1490046476000" expanded="true" signature="3553:3667" ph="SELECT u.dir... u_address" />
+            <marker date="1490046476000" expanded="true" signature="4021:4062" ph="SELECT * FRO... mod_envio" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/archivos_old/archivos_old/htdocs_old/mandao/cs-content/js/gmaps.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6171">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/archivos_old/archivos_old/htdocs_old/mandao/cs-pages/order.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/archivos_old/archivos_old/htdocs_old/manda/cs-pages/check_end.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4896">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1491470812000" expanded="true" signature="1748:1864" ph="SELECT u.dir... u_address" />
+            <marker date="1491470812000" expanded="true" signature="12444:12477" ph="..." />
+            <marker date="1491470812000" expanded="true" signature="12926:12997" ph="..." />
+            <marker date="1491470812000" expanded="true" signature="12998:13607" ph="..." />
+            <marker date="1491470812000" expanded="true" signature="13050:13419" ph="..." />
+            <marker date="1491470812000" expanded="true" signature="13189:13380" ph="..." />
+            <marker date="1491470812000" expanded="true" signature="13822:15499" ph="..." />
+            <marker date="1491470812000" expanded="true" signature="13849:15456" ph="..." />
+            <marker date="1491470812000" expanded="true" signature="13945:14147" ph="..." />
+            <marker date="1491470812000" expanded="true" signature="14336:14492" ph="..." />
+            <marker date="1491470812000" expanded="true" signature="14566:14721" ph="..." />
+            <marker date="1491470812000" expanded="true" signature="14852:15025" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/archivos_old/archivos_old/htdocs_old/manda/cs-pages/checkout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2825">
+          <caret line="68" column="40" lean-forward="false" selection-start-line="68" selection-start-column="33" selection-end-line="68" selection-end-column="40" />
+          <folding>
+            <marker date="1491157920000" expanded="true" signature="1506:1544" ph="SELECT * FRO... proveedor" />
+            <marker date="1491157920000" expanded="true" signature="1684:1745" ph="SELECT * FRO... detalles_shop" />
+            <marker date="1491157920000" expanded="true" signature="9227:9353" ph="SELECT area,... ${$DB_ADDRESS}" />
+            <marker date="1491157920000" expanded="false" signature="24247:24280" ph="..." />
+            <marker date="1491157920000" expanded="true" signature="24281:24527" ph="..." />
+            <marker date="1491157920000" expanded="true" signature="27385:27425" ph="..." />
+            <marker date="1491157920000" expanded="true" signature="27426:27886" ph="..." />
+            <marker date="1491157920000" expanded="true" signature="27478:27847" ph="..." />
+            <marker date="1491157920000" expanded="true" signature="27617:27808" ph="..." />
+            <marker date="1491157920000" expanded="true" signature="28184:29796" ph="..." />
+            <marker date="1491157920000" expanded="true" signature="28280:28482" ph="..." />
+            <marker date="1491157920000" expanded="true" signature="28671:28827" ph="..." />
+            <marker date="1491157920000" expanded="true" signature="28901:29056" ph="..." />
+            <marker date="1491157920000" expanded="true" signature="29187:29360" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conex2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="145" column="5" lean-forward="true" selection-start-line="135" selection-start-column="3" selection-end-line="145" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conex.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="43" column="27" lean-forward="true" selection-start-line="43" selection-start-column="27" selection-end-line="43" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/map.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="36" column="64" lean-forward="false" selection-start-line="36" selection-start-column="64" selection-end-line="36" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

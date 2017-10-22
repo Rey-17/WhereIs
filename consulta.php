@@ -1,5 +1,5 @@
 <?php
-$conexion= new mysqli('localhost', 'root', 'YES', 'whereis_pma');
+$conexion= new mysqli('localhost', 'root', '', 'whereis');
 if($conexion->connect_errno > 0){
     die('Imposible conectar a la base de datos [' . $db->connect_error . ']');
 	exit();

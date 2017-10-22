@@ -1,18 +1,40 @@
-<!DOCTYPE html>
 <html>
 <head>
-    <link rel="stylesheet" href="js/microphone-0.7.0/microphone.min.css">
+    <link rel="stylesheet" href="microphone/css/microphone.min.css">
 </head>
+<style>
+    /* Always set the map height explicitly to define the size of the div
+     * element that contains the map. */
+    #map, #map2 {
+        height: 100%;
+    }
+    /* Optional: Makes the sample page fill the window. */
+    html, body {
+        height: 70%;
+        margin: 0;
+        padding: 0;
+    }
+</style>
 <body style="text-align: center;">
-	<h1>WhereIs</h1>
-  <p>No te sabes el número de teléfono de la empresa, o quieres saber su horario de atención....<br>
-  Que esperas presiona el microfono y realiza tu busqueda ya!!!!</p>
 <center><div id="microphone"></div></center>
 <pre id="result"></pre>
 <div id="info"></div>
 <div id="error"></div>
-<script src="js/microphone-0.7.0/microphone.min.js"></script>
-<script src="js/conexion.js"></script>
+<input id="pac-input" class="controls" type="text" placeholder="Search Box" />
+<input type="text" value="local" id="local"/>
+<div id="map"></div>
+<div id="map2"></div>
+<div id="output"></div>
+<script src="microphone/js/microphone.min.js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.js"></script>
+<script async defer
+        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAt_xQ1HsjG3NFGGL9rHHqeMLIT-1tzSro&callback=initMap">
+</script>
+<!--script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAt_xQ1HsjG3NFGGL9rHHqeMLIT-1tzSro&libraries=places&callback=initialize" async defer></script-->
+<script src="map.js"></script>
+<script src="conex.js"></script>
+<!--script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAt_xQ1HsjG3NFGGL9rHHqeMLIT-1tzSro&callback&libraries=places&callback=initAutocomplete"
+        async defer></--script -->
 
 </body>
 </html>
